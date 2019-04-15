@@ -1,342 +1,253 @@
 {
   "Attendance": [
-	 {
-	   "StudentID": 1,
-	   "FirstName": "Sarah",
-	   "LastName": "Ahmed",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 2,
-	   "FirstName": "Daniel",
-	   "LastName": "Khan",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 3,
-	   "FirstName": "Emma",
-	   "LastName": "Ali",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 4,
-	   "FirstName": "David",
-	   "LastName": "Patel",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 5,
-	   "FirstName": "Maria",
-	   "LastName": "Begum",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 6,
-	   "FirstName": "James",
-	   "LastName": "Smith",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 7,
-	   "FirstName": "Lisa",
-	   "LastName": "Williams",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 8,
-	   "FirstName": "Michael",
-	   "LastName": "Brown",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 9,
-	   "FirstName": "Rebecca",
-	   "LastName": "Hussain",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 10,
-	   "FirstName": "Joshua",
-	   "LastName": "Rahman",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 11,
-	   "FirstName": "Nicola",
-	   "LastName": "Jones",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 12,
-	   "FirstName": "Thomas",
-	   "LastName": "Mohamed",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 13,
-	   "FirstName": "Michelle",
-	   "LastName": "Taylor",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 14,
-	   "FirstName": "Mohammed",
-	   "LastName": "Islam",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 15,
-	   "FirstName": "Laura",
-	   "LastName": "Singh",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 16,
-	   "FirstName": "Jack",
-	   "LastName": "Miah",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 17,
-	   "FirstName": "Claire",
-	   "LastName": "Kaur",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 18,
-	   "FirstName": "Adam",
-	   "LastName": "Hassan",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 19,
-	   "FirstName": "Anna",
-	   "LastName": "Johnson",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 20,
-	   "FirstName": "Samuel",
-	   "LastName": "Wilson",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 21,
-	   "FirstName": "Elizabeth",
-	   "LastName": "Shah",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 22,
-	   "FirstName": "Joseph",
-	   "LastName": "Thompson",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 23,
-	   "FirstName": "Jessica",
-	   "LastName": "Thomas",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 24,
-	   "FirstName": "Oliver",
-	   "LastName": "Uddin",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "16/04/2019"
-	 },
-	 {
-	   "StudentID": 1,
-	   "FirstName": "Sarah",
-	   "LastName": "Ahmed",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 2,
-	   "FirstName": "Daniel",
-	   "LastName": "Khan",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 3,
-	   "FirstName": "Emma",
-	   "LastName": "Ali",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 4,
-	   "FirstName": "David",
-	   "LastName": "Patel",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 5,
-	   "FirstName": "Maria",
-	   "LastName": "Begum",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 6,
-	   "FirstName": "James",
-	   "LastName": "Smith",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 7,
-	   "FirstName": "Lisa",
-	   "LastName": "Williams",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 8,
-	   "FirstName": "Michael",
-	   "LastName": "Brown",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 9,
-	   "FirstName": "Rebecca",
-	   "LastName": "Hussain",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 10,
-	   "FirstName": "Joshua",
-	   "LastName": "Rahman",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 11,
-	   "FirstName": "Nicola",
-	   "LastName": "Jones",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 12,
-	   "FirstName": "Thomas",
-	   "LastName": "Mohamed",
-	   "ClassName": "8A",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 13,
-	   "FirstName": "Michelle",
-	   "LastName": "Taylor",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 14,
-	   "FirstName": "Mohammed",
-	   "LastName": "Islam",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 15,
-	   "FirstName": "Laura",
-	   "LastName": "Singh",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 16,
-	   "FirstName": "Jack",
-	   "LastName": "Miah",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 17,
-	   "FirstName": "Claire",
-	   "LastName": "Kaur",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 18,
-	   "FirstName": "Adam",
-	   "LastName": "Hassan",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 19,
-	   "FirstName": "Anna",
-	   "LastName": "Johnson",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 20,
-	   "FirstName": "Samuel",
-	   "LastName": "Wilson",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 21,
-	   "FirstName": "Elizabeth",
-	   "LastName": "Shah",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 22,
-	   "FirstName": "Joseph",
-	   "LastName": "Thompson",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 23,
-	   "FirstName": "Jessica",
-	   "LastName": "Thomas",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 },
-	 {
-	   "StudentID": 24,
-	   "FirstName": "Oliver",
-	   "LastName": "Uddin",
-	   "ClassName": "4B",
-	   "Attended": "false", "When": "17/04/2019"
-	 }
-  ],
+  {
+    "StudentID": 1,
+    "FirstName": "Sarah",
+    "LastName": "Ahmed",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 2,
+    "FirstName": "Daniel",
+    "LastName": "Khan",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 3,
+    "FirstName": "Emma",
+    "LastName": "Ali",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 4,
+    "FirstName": "David",
+    "LastName": "Patel",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 5,
+    "FirstName": "Maria",
+    "LastName": "Begum",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 6,
+    "FirstName": "James",
+    "LastName": "Smith",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 7,
+    "FirstName": "Lisa",
+    "LastName": "Williams",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 8,
+    "FirstName": "Michael",
+    "LastName": "Brown",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 9,
+    "FirstName": "Rebecca",
+    "LastName": "Hussain",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 10,
+    "FirstName": "Joshua",
+    "LastName": "Rahman",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 11,
+    "FirstName": "Nicola",
+    "LastName": "Jones",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 12,
+    "FirstName": "Thomas",
+    "LastName": "Mohamed",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "16/04/2019"
+  },
+  {
+    "StudentID": 1,
+    "FirstName": "Sarah",
+    "LastName": "Ahmed",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 2,
+    "FirstName": "Daniel",
+    "LastName": "Khan",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 3,
+    "FirstName": "Emma",
+    "LastName": "Ali",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 4,
+    "FirstName": "David",
+    "LastName": "Patel",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 5,
+    "FirstName": "Maria",
+    "LastName": "Begum",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 6,
+    "FirstName": "James",
+    "LastName": "Smith",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 7,
+    "FirstName": "Lisa",
+    "LastName": "Williams",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 8,
+    "FirstName": "Michael",
+    "LastName": "Brown",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 9,
+    "FirstName": "Rebecca",
+    "LastName": "Hussain",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 10,
+    "FirstName": "Joshua",
+    "LastName": "Rahman",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 11,
+    "FirstName": "Nicola",
+    "LastName": "Jones",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 12,
+    "FirstName": "Thomas",
+    "LastName": "Mohamed",
+    "ClassName": "8A",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 13,
+    "FirstName": "Michelle",
+    "LastName": "Taylor",
+    "ClassName": "4B",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },{
+    "StudentID": 16,
+    "FirstName": "Jack",
+    "LastName": "Miah",
+    "ClassName": "4B",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 17,
+    "FirstName": "Claire",
+    "LastName": "Kaur",
+    "ClassName": "4B",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 18,
+    "FirstName": "Adam",
+    "LastName": "Hassan",
+    "ClassName": "4B",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 22,
+    "FirstName": "Joseph",
+    "LastName": "Thompson",
+    "ClassName": "4B",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 23,
+    "FirstName": "Jessica",
+    "LastName": "Thomas",
+    "ClassName": "4B",
+    "Attended": "false",
+    "When": "17/04/2019"
+  },
+  {
+    "StudentID": 24,
+    "FirstName": "Oliver",
+    "LastName": "Uddin",
+    "ClassName": "4B",
+    "Attended": "false",
+    "When": "17/04/2019"
+  }
+],
   "classes": [
     { "id": 1, "ClassName": "8A" },
     { "id": 2, "body": "4B" }
