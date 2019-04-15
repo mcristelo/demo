@@ -1,6 +1,5 @@
 {
   "Attendance": [
-   [
 	 {
 	   "StudentID": 1,
 	   "FirstName": "Sarah",
@@ -337,7 +336,6 @@
 	   "ClassName": "4B",
 	   "Attended": "false", "When": "17/04/2019"
 	 }
-	]
   ],
   "classes": [
     { "id": 1, "ClassName": "8A" },
