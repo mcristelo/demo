@@ -238,14 +238,6 @@
     "ClassName": "4B",
     "Attended": "false",
     "When": "17/04/2019"
-  },
-  {
-    "StudentID": 24,
-    "FirstName": "Oliver",
-    "LastName": "Uddin",
-    "ClassName": "4B",
-    "Attended": "false",
-    "When": "17/04/2019"
   }
 ],
   "classes": [
